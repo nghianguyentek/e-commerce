@@ -27,12 +27,12 @@ experience work together in the digital economy.
 
 ## Reading Assignment
 
-- *Beyond Digital Ubiquity: The Digital Business Model Iron
-  Triangle*. https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-001/html
-- *Looking Behind the Scene: Assessing the Value Drivers Behind Digital Business
-  Models*. https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-002/html
-- *Digital Platforms: Unlocking the Power of
-  Networks*.https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-003/html
+- [*Beyond Digital Ubiquity: The Digital Business Model Iron
+  Triangle*](../resources/1-beyond-digital-ubiquity.pdf). https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-001/html
+- [*Looking Behind the Scene: Assessing the Value Drivers Behind Digital Business
+  Models*](../resources/2-mastering-the-power-networks.pdf). https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-002/html
+- [*Digital Platforms: Unlocking the Power of
+  Networks*](../resources/3-digital-platform.pdf).https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-003/html
 - [*eMarketing: The essential guide to marketing in a digital
   world*](../resources/e-marketing-7th-ed.pdf). https://open.umn.edu/opentextbooks/textbooks/14
   - Chapter 1: 1.5 and 1.6
