@@ -30,7 +30,7 @@ experience work together in the digital economy.
 - [*Beyond Digital Ubiquity: The Digital Business Model Iron
   Triangle*](../resources/1-beyond-digital-ubiquity.pdf). https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-001/html
 - [*Looking Behind the Scene: Assessing the Value Drivers Behind Digital Business
-  Models*](../resources/2-mastering-the-power-networks.pdf). https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-002/html
+  Models*](../resources/2-looking-behind-the-scene.pdf). https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-002/html
 - [*Digital Platforms: Unlocking the Power of
   Networks*](../resources/3-digital-platform.pdf).https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-003/html
 - [*eMarketing: The essential guide to marketing in a digital
@@ -74,3 +74,7 @@ Based on the readings and your understanding of digital transformation, respond 
 5. Posting is polished and generally free of errors in mechanics, spelling, usage, and sentence structure.
 6. Initial post made by Sunday.
 7. Meets the word count range.
+
+## Self-Quiz
+
+The [Self-Quiz](self-quiz.md) gives you an opportunity to self-assess your knowledge of what you have learned so far.
