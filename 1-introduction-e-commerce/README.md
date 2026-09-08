@@ -1,6 +1,6 @@
-[E-Commerce](../README.md) / 1. Introduction to E-Commerce
+  [E-Commerce](../README.md) / Unit 1: Introduction to E-Commerce
 
-# Introduction to E-Commerce
+# Unit 1: Introduction to E-Commerce
 
 In this first unit, you will explore how the Internet and emerging digital technologies—such as mobile commerce, social
 media, and artificial intelligence—have transformed the way businesses operate and engage with customers. You will also
