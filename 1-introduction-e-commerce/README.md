@@ -32,7 +32,7 @@ experience work together in the digital economy.
 - [*Looking Behind the Scene: Assessing the Value Drivers Behind Digital Business
   Models*](../resources/2-looking-behind-the-scene.pdf). https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-002/html
 - [*Digital Platforms: Unlocking the Power of
-  Networks*](../resources/3-digital-platform.pdf).https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-003/html
+  Networks*](../resources/3-digital-platforms.pdf).https://www.degruyterbrill.com/document/doi/10.1515/9783110762556-003/html
 - [*eMarketing: The essential guide to marketing in a digital
   world*](../resources/e-marketing-7th-ed.pdf). https://open.umn.edu/opentextbooks/textbooks/14
   - Chapter 1: 1.5 and 1.6

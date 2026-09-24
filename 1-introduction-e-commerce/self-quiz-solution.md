@@ -10,9 +10,9 @@
 2. Business Web Alliance is most closely described as:
    1. Systematic supplier selection, process optimization for total value chain
    2. Presentation of a large variety of products, fixed prices and not negotiation between supplier and customer - simple fulfillment from customer's point of view
-   3. Innovation in products and processes, trust building between different actors, abstinence of hierarchical supervision
+   3. `Innovation in products and processes, trust building between different actors, abstinence of hierarchical supervision`
    4. Net optimization, unlimited usage, logistics processes
-   5. `Market information available, negotiation processes established, and dynamic pricing`
+   5. Market information available, negotiation processes established, and dynamic pricing
 3. Actions that lead to an intent reaction on the part of a visitor is known as:
    1. Content management system
    2. `Call to action`
@@ -28,7 +28,7 @@
    1. `Profitability`
    2. `Increased market share`
    3. `Improving service`
-   4. `Increased security over personal information`
+   4. Increased security over personal information
    5. `Faster delivery of product`
 6. Business services infrastructure is most closely described as:
    1. The layer that permits a full range of text and multimedia

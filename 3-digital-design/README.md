@@ -36,17 +36,17 @@ As you go through the readings and watch the videos, consider the following:
 
 1. [*eMarketing: The essential guide to marketing in a digital
    world*](../resources/e-marketing-7th-ed.pdf). https://open.umn.edu/opentextbooks/textbooks/14
-1. Chapter 5: Search Engine Optimization (SEO)
-2. Chapter 9: Content Marketing Strategy
-3. Chapter 10: Planning Your Content
-4. Chapter 11: Content Creation: Copy
-5. Chapter 12: Content Creation: Video
-6. Chapter 13: Social Media
-7. Chapter 14: Social Media Strategy
-8. Chapter 21: Conversion Optimization
+   1. Chapter 5: Search Engine Optimization (SEO)
+   2. Chapter 9: Content Marketing Strategy
+   3. Chapter 10: Planning Your Content
+   4. Chapter 11: Content Creation: Copy
+   5. Chapter 12: Content Creation: Video
+   6. Chapter 13: Social Media
+   7. Chapter 14: Social Media Strategy
+   8. Chapter 21: Conversion Optimization
 2. Ronteau, S., Muzellec, L., Saxena, D., & Trabucchi, D. (2023). Digital business models: the new value creation and
    capture mechanisms of the 21st century. De Gruyter.
-1. [Chapter 5: "Social" at the Core of a Digital Business](../resources/5-social-core-digital-business.pdf)
+   1. [Chapter 5: "Social" at the Core of a Digital Business](../resources/5-social-core-digital-business.pdf)
 
 ## Assignment Activity
 
