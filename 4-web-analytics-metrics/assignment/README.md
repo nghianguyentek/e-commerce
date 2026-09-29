@@ -14,8 +14,7 @@ In this assignment, you will reflect on how effective UX and UI design can impro
 Choose one e-commerce website (for example, Amazon, Etsy, or a small local online store) and write a 500–700-word reflective response addressing the following:
 
 1. Design Evaluation: Describe the key UX/UI features of the website. Explain how these features support or hinder the user’s experience.
-Usability Testing and Feedback
-2. Suggest two usability testing methods that could help improve website performance. Reflect on how continuous testing enhances customer satisfaction.
+2. Usability Testing and Feedback: Suggest two usability testing methods that could help improve website performance. Reflect on how continuous testing enhances customer satisfaction.
 
 Include at least one credible source (textbook, academic journal, or trusted web article) to support your reflections, and cite it using APA 7th edition format.
 
