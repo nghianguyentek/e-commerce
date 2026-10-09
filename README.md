@@ -5,3 +5,4 @@
 - [Unit 3: Digital Design](3-digital-design/README.md)
 - [Unit 4: Web Analytics Metrics](4-web-analytics-metrics/README.md)
 - [Unit 5: Digital Markets, Servicing, Dynamic Pricing, and Electronic Payments](5-digital-markets-servicing-dynamic-pricing-electronic-payments/README.md)
+- [Unit 6: Social Media and Business](6-social-media-business/README.md)
