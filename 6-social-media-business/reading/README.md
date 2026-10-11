@@ -19,7 +19,7 @@ As you go through the readings and watch the videos, consider the following:
 2. Ronteau, S., Muzellec, L., Saxena, D., & Trabucchi, D. (2023). *Digital business models: The new value creation and capture mechanisms of the 21st century*. De Gruyter.
    - Chapter 5
    - Chapter 10
-3. McHaney, R. W., & Sachs, D. (2016). Web 2.0 and social media: Business in a connected world (3rd ed.). Bookboon.
+3. McHaney, R. W., & Sachs, D. A. (2016). [*Web 2.0 and social media: Business in a connected world* (3rd ed.)](../../resources/web-2-and-social-media.pdf). Bookboon.
    - Chapter 7: Facebook and Linkedin
    - Chapter 8: Social Buzz and Viral Phenomenon
    - Chapter 9: Location-Based Social Media
