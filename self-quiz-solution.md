@@ -317,3 +317,36 @@
    - `malware`
 5. The maximum tolerable period in which data might be lost due to a major incident is termed as:
    - `recovery point objective (RPO)`
+
+## Unit 8
+
+1. The legal protection for a novel is most closely related to:
+   - `copyright`
+2. The legal protection for a new drug formula is most closely related to:
+   - `patent`
+3. An investment offer that promises what, to most people, to be an unreasonable rate of return on an investment most closely describes:
+   - `ponzi scheme`
+4. The legal protection for the term, "UoPeople" is most closely related to:
+   - `trademark`
+5. The legal protection for a software application that can be downloaded on a computer device is most closely related to:
+   - `copyright`
+6. An offer using false or fraudulent claims to solicit investments or loans most closely describes:
+   - `investment fraud`
+7. The legal protection for a new machine that prints computer chips is most closely related to:
+   - `patent`
+8. The legal protection for a new chemical process is most closely related to:
+   - `patent`
+9. The legal protection for the software program called SAP is most closely related to:
+   - `copyright`
+10. The legal protection for a new computer device is most closely related to:
+    - `patent`
+11. The legal protection for a play is most closely related to:
+    - `copyright`
+12. Driving around a neighborhood with a WIFI laptop with the intent to map houses, apartments, and businesses with unsecured wireless access points most closely describes:
+    - `wardriving`
+13. Attempts to trick computer users into revealing personal of financial information through a fraudulent email message most closely describes:
+    - `phishing`
+14. An employment offer where the job being offered is to package and ship products (independent of a shipping service provider) to the employer overseas most closely describes:
+    - `reshipping`
+15. The legal protection for the General Electric emblem is most closely related to:
+    - `trademark`
